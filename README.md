@@ -19,7 +19,7 @@ Menggunakan Komposer untuk instalasi laravel. Dapatkan Komposer [disini](https:/
 Use **GIT** untuk mengkloning repositori (Dapat mengunduh dari repositori juga)
 
 ```bash
-git clone https://github.com/suhasrkms/laravel-with-firebase-auth.git
+git clone https://github.com/johannasendi/larafirebase.git
 ```
 
 Create .env file ( *copy the content from .env.example* !important )
